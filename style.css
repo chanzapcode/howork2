@@ -1,0 +1,26 @@
+.logo {
+    text-decoration: solid;
+    font: bold;
+}
+
+
+
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(41, 8, 78);
+    height: 150px;
+}
+button {
+    background-color: rgb(35, 90, 241);
+    border-radius: 50px;
+    color: whitesmoke;
+}
+h2{
+    text-align: center;
+}
+section {
+    color: whitesmoke;
+    background-color: rgb(41, 8, 78);
+}
