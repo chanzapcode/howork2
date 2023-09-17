@@ -29,9 +29,9 @@ h1 {
     background-color: rgb(75, 117, 231);
     border-radius: 20px;
     color: whitesmoke;
-    width: 74px;
-    height: 25px;
-    font-size: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
     cursor: pointer;
     border: none;
     box-shadow: 5 5 25px;
@@ -39,15 +39,13 @@ h1 {
 .btn:hover {
     box-shadow: 0 0 50px, 0 0 100px, 0 0 200px;
 }
-.img{
-    display: inline;
-}
+
 h2{
     text-align: center;
     font-size: 35px;
     font-family: sans-serif;
 }
-section {
+.content {
     color: whitesmoke;
     background-color: var(--NAVY-BLUE, #2E2F42);
 }
